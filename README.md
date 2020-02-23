@@ -1,6 +1,6 @@
 "# React-Web-App-Boilerplate" 
 
-npm install
-npm run dev
+npm install <br />
+npm run dev <br />
 
 Then open index.html
