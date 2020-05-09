@@ -24,8 +24,3 @@ npm run test
 ```
 npm run lint
 ```
-### Cypress e2e testing
-```
-//important to be global
-npm i -g cypress 
-```
